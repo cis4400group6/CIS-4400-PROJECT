@@ -8,7 +8,7 @@ The ETL(Etxract, Transform, Load) documentation for the project will provide a g
       * Once installed, you can launch jupyter notebook from your terminal simply by writing: < jyputer notebook >
       
   2. Install MySQL onto your operating system. This will be the database you are using for the project. The links below will take you to the installation page for MySQL. We have also included a Youtube video if you need more instruction on how to properly download the server onto your operating system. 
-   * If using a MacOS please update to the latest software, if not, download archived versions of the MySQL server 
+   * If using a MacOS please update to the latest software, if not, download archived versions of the MySQL server.
    * DO NOT FORGET THE PASSWORD you set for the MySQL server.
    
       ##### Download MySQL sever 
@@ -16,7 +16,7 @@ The ETL(Etxract, Transform, Load) documentation for the project will provide a g
       ##### Video on installation
       https://www.youtube.com/watch?v=UcpHkYfWarM&t=819s&ab_channel=ProgrammingKnowledge
   
-  3. Install MySQL Workbench- visual database design tool
+  3. Install MySQL Workbench- visual database design tool.
   
       https://www.mysql.com/products/workbench/
  
@@ -45,18 +45,22 @@ Due to lack of open data about certain information we required for this project,
      https://drive.google.com/drive/folders/1X9nXOWXyw5CiBI0H4ejPDxVI8lLUXRhU?usp=sharing
 
 ### Transform Data 
-  1. Open jupyter notebook and create a Python 3 file in the same folder as all your downloaded csv files 
+  1. Open jupyter notebook and create a Python 3 file in the same folder as all your downloaded csv files.
   2. Code example of transforming the data:
-      *
+      *https://github.com/cis4400group6/CIS-4400-PROJECT/blob/main/Transforming_Data.png
 
 ### Load Data
   1. Load data by creating tables in mysql and load the transformed data from above into the tables using Python code. 
   2. Code example of loading the data:
-    *
+    *https://github.com/cis4400group6/CIS-4400-PROJECT/blob/main/Loading_Data.png
     
 ## Full Code 
   * Please see the comments in the code to see what it does and what it is for. 
-  
+  * https://github.com/cis4400group6/CIS-4400-PROJECT/blob/main/ETL_Group%20Project.ipynb
   
 ## Questions?
-If you have any questions about the project or technical issues please feel free to email talita-elena.vuvunikyan@macaulay.cuny.edu. 
+If you have any questions about the project or technical issues please feel free to email:
+  * talita-elena.vuvunikyan@macaulay.cuny.edu
+  * Zainab.salahudin@baruchmail.cuny.edu
+  * samanthaberenzon@gmail.com
+  * tajinurjafarli@gmail.com
