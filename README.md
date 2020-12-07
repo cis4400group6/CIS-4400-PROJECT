@@ -1,5 +1,5 @@
 ## CIS-4400-PROJECT
-The ETL(Etxract, Transform, Load) documentation for the project will provide a guide on how to install necessary softwares, extract data, transform data based on the project's requirements and finally load it into the the MySQL database. Please carefully read the bullet points under the extraction subheading as they provide important information about the current data available. 
+The ETL(Extract, Transform, Load) documentation for the project will provide a guide on how to install necessary softwares, extract data, transform data based on the project's requirements and finally load it into the the MySQL database. Please carefully read the bullet points under the extraction subheading as they provide important information about the current data available. 
 
 ### Installation:
   1. Install any python IDE that you are comfortable using. Here we used Anaconda Navigator- Jupyter Notebook as it was more user friendly and provided useful information about errors with each line of code. Use the link below to install Anaconda Navigator- Jupyter Notebook onto your operating system: 
