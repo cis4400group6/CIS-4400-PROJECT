@@ -5,7 +5,7 @@ The ETL(Extract, Transform, Load) documentation for the project will provide a g
   1. Install any python IDE that you are comfortable using. Here we used Anaconda Navigator- Jupyter Notebook as it was more user friendly and provided useful information about errors with each line of code. Use the link below to install Anaconda Navigator- Jupyter Notebook onto your operating system: 
  
       https://docs.anaconda.com/anaconda/install/
-      * Once installed, you can launch jupyter notebook from your terminal simply by writing: < jyputer notebook >
+      * Once installed, you can launch jupyter notebook in your MacOS terminal simply by writing: < jupyter notebook > 
       
   2. Install MySQL onto your operating system. This will be the database you are using for the project. The links below will take you to the installation page for MySQL. We have also included a Youtube video if you need more instruction on how to properly download the server onto your operating system. 
    * If using a MacOS please update to the latest software, if not, download archived versions of the MySQL server.
