@@ -56,7 +56,7 @@ Due to lack of open data about certain information we required for this project,
     
 ## Full Code 
   * Please see the comments in the code to see what it does and what it is for. 
-  * https://github.com/cis4400group6/CIS-4400-PROJECT/blob/main/ETL_Group%20Project.ipynb
+  * https://github.com/cis4400group6/CIS-4400-PROJECT/blob/main/ETL_Group%20Project%20(2).ipynb
   
 ## Questions?
 If you have any questions about the project or technical issues please feel free to email:
