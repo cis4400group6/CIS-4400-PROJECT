@@ -50,7 +50,7 @@ Due to lack of open data about certain information we required for this project,
       *https://github.com/cis4400group6/CIS-4400-PROJECT/blob/main/Transforming_Data.png
 
 ### Load Data
-  1. Load data by creating tables in mysql and load the transformed data from above into the tables using Python code. 
+  1. Load the transformed data from above into the MySQL tables using Python code. 
   2. Code example of loading the data:
     *https://github.com/cis4400group6/CIS-4400-PROJECT/blob/main/Loading_Data.png
     
