@@ -41,8 +41,12 @@ Due to lack of open data about certain information we required for this project,
      http://www.infoshare.org.remote.baruch.cuny.edu/main/directip.aspx
       *Entered Manually
       * Only available through Baruch database
-  6. Google Drive of all CSV files 
+  6. CVS minute clinic 
+      *Entered Manually 
+      https://www.cvs.com/minuteclinic
+  7. Google Drive of all CSV files 
      https://drive.google.com/drive/folders/1X9nXOWXyw5CiBI0H4ejPDxVI8lLUXRhU?usp=sharing
+  
 
 ### Transform Data 
   1. Open jupyter notebook and create a Python 3 file in the same folder as all your downloaded csv files.
